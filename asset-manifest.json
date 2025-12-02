@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IntermittentFastingTracker/static/css/main.09c6f64d.css",
+    "main.js": "/IntermittentFastingTracker/static/js/main.e9cc88bf.js",
+    "static/js/453.203e4a17.chunk.js": "/IntermittentFastingTracker/static/js/453.203e4a17.chunk.js",
+    "index.html": "/IntermittentFastingTracker/index.html",
+    "main.09c6f64d.css.map": "/IntermittentFastingTracker/static/css/main.09c6f64d.css.map",
+    "main.e9cc88bf.js.map": "/IntermittentFastingTracker/static/js/main.e9cc88bf.js.map",
+    "453.203e4a17.chunk.js.map": "/IntermittentFastingTracker/static/js/453.203e4a17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09c6f64d.css",
+    "static/js/main.e9cc88bf.js"
+  ]
+}
